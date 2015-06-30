@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a071ce-7826-44be-a732-418b78c54555" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\kimhou\myGithub\grunt-plugins\grunt-ejs-precompile\test\ejs_precompile_test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kimhou\myGithub\grunt-plugins\grunt-ejs-precompile\test\expected\custom_options" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kimhou\myGithub\grunt-plugins\grunt-ejs-precompile\test\expected\default_options" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kimhou\myGithub\grunt-plugins\grunt-ejs-precompile\test\fixtures\123" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kimhou\myGithub\grunt-plugins\grunt-ejs-precompile\test\fixtures\testing" afterPath="" />
-    </list>
+    <list default="true" id="46a071ce-7826-44be-a732-418b78c54555" name="Default" comment="" />
     <ignored path="grunt-plugins.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -130,38 +124,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grunt-plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-ejs-precompile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grunt-ejs-precompile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -450,12 +412,12 @@
       <created>1435570028908</created>
       <option name="number" value="Default" />
       <updated>1435570028908</updated>
-      <workItem from="1435570030120" duration="9952000" />
+      <workItem from="1435570030120" duration="10252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9952000" />
+    <option name="totallyTimeSpent" value="10252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1176" extended-state="0" />
