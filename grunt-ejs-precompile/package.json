@@ -1,7 +1,7 @@
 {
   "name": "grunt-ejs-precompile",
   "description": "Grunt plugin that compile ejs into a CMD javascript file.",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "homepage": "https://github.com/kimhou/grunt-plugins/ejs-precompile",
   "author": " <honkang@163.com> (www.kimhou.net)",
   "repository": {
@@ -29,13 +29,17 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin", "grunt", "ejs", "compile"
+    "gruntplugin",
+    "grunt",
+    "ejs",
+    "compile"
   ],
   "main": "Gruntfile.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "chalk": "^0.5.1"
   },
   "license": "MIT"
 }
